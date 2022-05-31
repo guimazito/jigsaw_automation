@@ -15,4 +15,4 @@ Game Settings
 - Game Option > Pieces Vibration: No
 - Game Options > Show Box: No
 - Game Options > Pieces Rotation: No
-- Game Options > Click tp Drag: No
+- Game Options > Click to Drag: No
