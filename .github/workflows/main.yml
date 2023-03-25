@@ -1,0 +1,17 @@
+on: 
+  push:
+    branches:
+    - main
+
+name: Push Code Test
+
+jobs:
+  build:
+    name: Build
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Build The Code
+      run: |
+        echo "Build The Code"
