@@ -1,6 +1,0 @@
-name: Push Code Test
-on: push
-jobs:
-  runs-on: ubuntu-latest
-  steps:
-    -run: echo "Push Code Test"
